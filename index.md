@@ -8,7 +8,7 @@
 
 ## Game Development Experience
 
-**2012 - 2014** | **Freelance** 
+**2013 - 2014** | **Freelance** 
 
 *   Implemented Casino Video Game
 
