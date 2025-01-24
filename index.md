@@ -1,29 +1,8 @@
----
-layout: default
-title: Giovanny Espinal - CV
-styles: ["/style.css"]
----
-
 # Giovanny Espinal
 
 ## Senior Unity Developer
 
 > With a Master's in Engineering and a Bachelor's in Electronic Engineering, I bring over 8 years of experience in video game development, blending 5 years in professional studios with 3 as a freelancer. My expertise lies in directing and completing projects using Unity Engine, creating engaging video games and interactive experiences. I also have 5+ years of teaching experience in programming and video game development, allowing me to combine industry experience with educational principles. This makes me a strong candidate for projects involving educational games or learning platforms.
-
----
-
-## Skills
-
-| Skill             | Proficiency         |
-| ----------------- | ------------------- |
-| Unity®            | 8+ Years (Expert)   |
-| C# (.NET)         | 8+ Years (Expert)   |
-| Python            | 5+ Years (Proficient)|
-| GitHub            | Proficient          |
-| Agile Methodologies| Experienced         |
-| AI Tools          | Familiar            |
-| English           | C1 (Advanced)       |
-| AR/VR             | Experienced         |
 
 ---
 
@@ -81,6 +60,21 @@ styles: ["/style.css"]
 
 *   Tutored mathematics in English.
 *   Enhanced students' understanding of complex concepts.
+
+---
+
+## Skills
+
+| Skill             | Proficiency         |
+| ----------------- | ------------------- |
+| Unity®            | 8+ Years (Expert)   |
+| C# (.NET)         | 8+ Years (Expert)   |
+| Python            | 5+ Years (Proficient)|
+| GitHub            | Proficient          |
+| Agile Methodologies| Experienced         |
+| AI Tools          | Familiar            |
+| English           | C1 (Advanced)       |
+| AR/VR             | Experienced         |
 
 ---
 
