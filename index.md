@@ -10,7 +10,7 @@
 
 **2012 - 2014** | **Freelance** 
 
-*   Implemented Casino videogame
+*   Implemented Casino Video Game
 
 **2014 - 2016** | **Ártica** | **Game Dev. for Telemedicine Video Game**
 
