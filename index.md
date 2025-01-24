@@ -23,18 +23,18 @@
     *   Marketing games
     *   Event games and interactive experiences
 
-**Crossover | GT School** | **Sr Game Dev. for Magic Academy** | **2024 - 2025**
+**Crossover - GT School** | **Sr Game Dev. for Magic Academy** | **2024 - 2025**
 
 *   Enhanced AI integration in the development pipeline.
 *   Developed multiplayer combat systems and implemented quests.
 
-**Aseis | Dead Monkey** | **Sr Game Dev. for The Glitch zone wars** | **2025**
+**Aseis - Dead Monkey** | **Sr Game Dev. for The Glitch zone wars** | **2025**
 
 *   Implemented game features.
 *   Code review and architecture improvements.
 *   Shader implementation.
 
-**Artica | Universidad de Antioquia** | **Game Dev. for Telemedicine Video Game** | **2014 - 2016**
+**Artica - Universidad de Antioquia** | **Game Dev. for Telemedicine Video Game** | **2014 - 2016**
 
 *   Defined pipeline and requirements.
 *   Integrated the outputs of all the teams in one video game.
