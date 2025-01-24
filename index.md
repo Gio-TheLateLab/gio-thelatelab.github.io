@@ -8,13 +8,16 @@
 
 ## Game Development Experience
 
-**Strange Loop Games** | **Sr Game Dev. for ECO** | **2021 - 2024**
+**2012 - 2014** | **Freelance** 
 
-*   Implemented key game features and improved visual design (UI, shaders, and VFX).
-*   Collaborated with teams to enhance gameplay.
-*   Engaged with the community through streams and videos.
+*   Implemented Casino videogame
 
-**Freelance** | **2018 - 2021**
+**2014 - 2016** | **Ártica** | **Game Dev. for Telemedicine Video Game**
+
+*   Defined pipeline and requirements.
+*   Integrated the outputs of all the teams in one video game.
+
+**2018 - 2021** | **Freelance**
 
 *   Pitched projects to potential clients, defined requirements.
 *   Hired and led teams to develop video games and interactive experiences, including:
@@ -23,27 +26,40 @@
     *   Marketing games
     *   Event games and interactive experiences
 
-**Crossover - GT School** | **Sr Game Dev. for Magic Academy** | **2024 - 2025**
+**2021 - 2024** | **Strange Loop Games** | **Sr Game Dev. for ECO**
+
+*   Implemented key game features and improved visual design (UI, shaders, and VFX).
+*   Collaborated with teams to enhance gameplay.
+*   Engaged with the community through streams and videos.
+
+**2024 - 2025** | **Crossover - GT School** | **Sr Game Dev. for Magic Academy**
 
 *   Enhanced AI integration in the development pipeline.
 *   Developed multiplayer combat systems and implemented quests.
 
-**Aseis - Dead Monkey** | **Sr Game Dev. for The Glitch zone wars** | **2025**
+**2025** | **Aseis - Dead Monkey** | **Sr Game Dev. for The Glitch zone wars**
 
 *   Implemented game features.
 *   Code review and architecture improvements.
 *   Shader implementation.
 
-**Artica - Universidad de Antioquia** | **Game Dev. for Telemedicine Video Game** | **2014 - 2016**
-
-*   Defined pipeline and requirements.
-*   Integrated the outputs of all the teams in one video game.
 
 ---
 
 ## Academic Experience
 
-**Universidad Pontificia Bolivariana** | **Faculty Professor** | **Jul 2016 - Dec 2022**
+**2011 - 2014** | **Tutor Incorporated** | **Math Tutor**
+
+*   Tutored mathematics in English.
+*   Enhanced students' understanding of complex concepts.
+
+
+**Apr 2014 - Jun 2017** | **Universidad de Antioquia** | **External Teacher**
+
+*   Courses Taught: Programming, Computer Vision.
+*   Advisor for Engineering projects.
+
+**Jul 2016 - Dec 2022**| **Universidad Pontificia Bolivariana** | **Faculty Professor**
 
 *   Taught courses in Programming, Video Game Development, Computer Graphics, and Computer Vision.
 *   Incorporated CDIO principles into course structures.
@@ -51,15 +67,6 @@
 *   Led the video games department.
 *   Participated in the development of new curricula for emerging technologies.
 
-**Universidad de Antioquia** | **External Teacher** | **Apr 2014 - Jun 2017**
-
-*   Courses Taught: Programming, Computer Vision.
-*   Advisor for Engineering projects.
-
-**Tutor Incorporated** | **Math Tutor** | **Dec 2011 - Oct 2014**
-
-*   Tutored mathematics in English.
-*   Enhanced students' understanding of complex concepts.
 
 ---
 
