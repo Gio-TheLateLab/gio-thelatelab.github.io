@@ -1,3 +1,9 @@
+---
+layout: default
+title: Giovanny Espinal - CV
+styles: ["/style.css"]
+---
+
 # Giovanny Espinal
 
 ## Senior Unity Developer
