@@ -17,15 +17,15 @@ My portfolio includes Magic Academy (Steam, App Store, Google Play), where I con
 - 📱 314-808-6152  
 - 📧 [giovanny.espinal@gmail.com](mailto:giovanny.espinal@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/giovanny-espinal-r/)  
-- 🔗 [Portfolio](#)
+- 🔗 [Portfolio](https://docs.google.com/presentation/d/e/2PACX-1vS4FWR-_jXNHaZ8-ZFYJG2cXyaGNtKjX6P0-QaPAylfqoRNHYrqevqDQi5LE6zLAPGLDTcTRORjP0is/pub?start=false&loop=false&delayms=3000)
 
 ---
 
 ## Skills  
 - **Unity**: 8 years  
 - **C# (.NET)**: 8 years  
-- **Python**: 5 years  
-- **AI Tools**: 5 years  
+- **Python** Good
+- **AI Tools**: Good
 - **GitHub**: Proficient  
 - **Agile Methodologies**: Proficient  
 - **English**: C1 Level  
@@ -37,9 +37,16 @@ My portfolio includes Magic Academy (Steam, App Store, Google Play), where I con
 - 🐕 Dogs  
 - 🏊 Swimming  
 
+
 ---
 
 ## Experience  
+
+### **Sciplay**  
+**Sr Game Dev. for Bingo showdown**  
+*2025 – Currenly*  
+- Manage Colombian office Jr game devs (PR review, feedback, help with code when required)
+- Implement new features. This includes meetings with Product team, transform a product document into a technical design document and plan the develpment of the feature
 
 ### **Strange Loop Games**  
 **Sr Game Dev. for ECO**  
@@ -60,8 +67,8 @@ My portfolio includes Magic Academy (Steam, App Store, Google Play), where I con
 
 ### **Aseis | Dead Monkey**  
 **Sr Game Dev. for The Glitch Zone Wars**  
-*2025*  
-- Implemented game features.  
+*2025* (Freelance around 3 months)  
+- Implemented game features. Usinf UEFN  
 - Conducted code reviews and architecture improvements.  
 - Shader implementation.  
 
@@ -88,6 +95,11 @@ My portfolio includes Magic Academy (Steam, App Store, Google Play), where I con
 ---
 
 ## Academic Experience  
+
+### **Universidad Eafit**  
+**External Teacher**   
+*2025 - currently*  
+- Workshops for game development for art faculty students  
 
 ### **Universidad Pontificia Bolivariana**  
 **Faculty Professor**  
@@ -132,9 +144,10 @@ My portfolio includes Magic Academy (Steam, App Store, Google Play), where I con
 ---
 
 ## Portfolio  
-- **[Magic Academy](#)**: Available on Steam, App Store, and Google Play.  
-- **[Papumba Academy](#)**: App Store and Google Play.  
-- **ECO**: Steam.  
+- **[Magic Academy](https://youtu.be/3x_77F4x2YI?si=3Yn1uKUgg9T5R2qm)**: Available on Steam, App Store, and Google Play.  
+- **[Papumba Academy](https://youtu.be/6HPSdz4RPD0?si=e8Xe2R-Af66ZpP77)**: App Store and Google Play.  
+- **ECO**: Steam. (https://store.steampowered.com/app/382310/Eco/) 
 
 ---
+
 
