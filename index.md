@@ -9,15 +9,15 @@ Senior Unity Developer with 8+ years of experience in video game development (5+
 
 I also have 5+ years of experience teaching programming and game development at university level, combining production-ready practices with solid educational foundations.  
 
-My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I contributed to AI integration and multiplayer systems, and **ECO** (Steam), where I implemented key gameplay features. I’ve also worked on titles like **Papumba Academy** and interactive experiences for local events.
+My portfolio includes **Bingo showdown** (Facebook, App store, Google play) where I work as a Sr Game Dev, **Magic Academy** (Steam, others), where I contributed to AI integration and multiplayer systems, and **ECO** (Steam), where I implemented key gameplay features. I’ve also worked on titles like **Papumba Academy** and interactive experiences for local events.
 
 ---
 
 ## Contact  
 
 - 📍 Medellín, Colombia  
-- 📱 +57 314 808 6152  
-- 📧 [giovanny.espinal@gmail.com](mailto:giovanny.espinal@gmail.com)  
+- +57 314 808 6152  
+- [giovanny.espinal@gmail.com](mailto:giovanny.espinal@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/giovanny-espinal-r/)  
 - 🔗 [Portfolio (Slide Deck)](https://docs.google.com/presentation/d/e/2PACX-1vS4FWR-_jXNHaZ8-ZFYJG2cXyaGNtKjX6P0-QaPAylfqoRNHYrqevqDQi5LE6zLAPGLDTcTRORjP0is/pub?start=false&loop=false&delayms=3000)
 
@@ -186,3 +186,4 @@ My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I
 ## Interests  
 
 - Education, Video games & game design, Dogs, Swimming  
+
