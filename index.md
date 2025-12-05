@@ -1,8 +1,3 @@
-# Giovanny Espinal  
-**Senior Unity / Game Developer**  
-
----
-
 ## About Me  
 
 Senior Unity Developer with 8+ years of experience in video game development (5+ years in professional studios and 3 years as a freelance developer). I’ve led and shipped projects using Unity Engine across PC and mobile, working on gameplay systems, AI, UI, shaders, and live-ops features.  
@@ -186,4 +181,5 @@ My portfolio includes **Bingo showdown** (Facebook, App store, Google play) wher
 ## Interests  
 
 - Education, Video games & game design, Dogs, Swimming  
+
 
