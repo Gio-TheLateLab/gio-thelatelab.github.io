@@ -2,7 +2,7 @@
 
 Senior Unity Developer with 8+ years of experience in video game development (5+ years in professional studios and 3 years as a freelance developer). I’ve led and shipped projects using Unity Engine across PC and mobile, working on gameplay systems, AI, UI, shaders, and live-ops features.  
 
-I also have 5+ years of experience teaching programming and game development at university level, combining production-ready practices with solid educational foundations.  
+I also have 8+ years of experience teaching programming and game development at university level, combining production-ready practices with solid educational foundations.  
 
 My portfolio includes **Bingo showdown** (Facebook, App store, Google play) where I work as a Sr Game Dev, **Magic Academy** (Steam, others), where I contributed to AI integration and multiplayer systems, and **ECO** (Steam), where I implemented key gameplay features. I’ve also worked on titles like **Papumba Academy** and interactive experiences for local events.
 
@@ -181,5 +181,6 @@ My portfolio includes **Bingo showdown** (Facebook, App store, Google play) wher
 ## Interests  
 
 - Education, Video games & game design, Dogs, Swimming  
+
 
 
