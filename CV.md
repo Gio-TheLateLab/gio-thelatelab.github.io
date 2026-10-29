@@ -5,11 +5,16 @@
 
 ## About Me  
 
-Senior Unity Developer with 8+ years of experience in video game development (5+ years in professional studios and 3 years as a freelance developer). I’ve led and shipped projects using Unity Engine across PC and mobile, working on gameplay systems, AI, UI, shaders, and live-ops features.  
+Senior Unity Developer with 10+ years of experience in video game development across professional studios, freelance work, and independent projects. I’ve led and shipped projects using Unity Engine across PC and mobile, working on gameplay systems, AI, UI, shaders, and live-ops features.  
+
+Alongside hands-on development, I have managed and mentored junior and mid-level developers, supporting technical decisions, code quality, and delivery.  
 
 I also have 5+ years of experience teaching programming and game development at university level, combining production-ready practices with solid educational foundations.  
 
-My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I contributed to AI integration and multiplayer systems, and **ECO** (Steam), where I implemented key gameplay features. I’ve also worked on titles like **Papumba Academy** and interactive experiences for local events.
+My portfolio includes **Bingo Showdown** (Facebook, Android, iOS), where I work as a Senior Game Developer, **Magic Academy** (Steam, App Store, Google Play), where I contributed to AI integration and multiplayer systems, and **ECO** (Steam), where I implemented key gameplay features. I have also worked on **Papumba Academy** and interactive experiences for local events.
+
+I also develop independent games with **The Late Lab**, including **Stealthmate: A chess puzzle**, which has a [Steam store page](https://store.steampowered.com/app/5141490/) and a publicly available playable demo.
+
 
 ---
 
@@ -26,11 +31,11 @@ My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I
 ## Skills  
 
 - **Game Development & Engine**  
-  - Unity (8+ years) – 2D/3D, mobile & PC, URP, ScriptableObjects, editor tooling  
+  - Unity (10+ years) – 2D/3D, mobile & PC, URP, ScriptableObjects, editor tooling  
   - Gameplay, UI, camera systems, basic VFX/shaders  
 
 - **Programming**  
-  - C# / .NET (8+ years)  
+  - C# / .NET (10+ years)  
   - Python – scripting, tools, automation  
   - Design patterns, clean code, SOLID principles  
 
@@ -38,6 +43,10 @@ My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I
   - Event-driven and decoupled architectures  
   - Git / GitHub – branching, PRs, code review  
   - Agile / Scrum – working with cross-functional teams  
+
+- **Management & Mentoring**  
+  - Managing junior and mid-level developers while contributing hands-on to development  
+  - Technical guidance, PR reviews, feedback, and pair programming  
 
 - **AI & Tools**  
   - Practical use of AI tools in game and content pipelines  
@@ -54,7 +63,7 @@ My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I
 **Senior Game Developer – Bingo Showdown**  
 *2025 – Present*  
 
-- Lead and mentor junior game developers in the Colombian office (PR reviews, feedback, pair programming).  
+- Manage and mentor junior and mid-level game developers in the Colombian office (PR reviews, feedback, pair programming).  
 - Implement new gameplay and live-ops features in Unity based on product requirements.  
 - Translate product documentation into technical design documents and detailed implementation plans.  
 - Collaborate closely with Product, QA, and Art to ensure features are delivered on time and aligned with design goals.  
@@ -171,6 +180,13 @@ My portfolio includes **Magic Academy** (Steam, App Store, Google Play), where I
 ---
 
 ## Selected Projects & Portfolio  
+
+- **Bingo Showdown** – Facebook, Android, iOS  
+  - Senior Game Developer; gameplay and live-ops development, plus management and mentoring of junior and mid-level developers.  
+
+- **Stealthmate: A chess puzzle** – Steam (Windows PC)  
+  - Independent game developed with The Late Lab, combining chess movement with stealth puzzles.  
+  - [Steam Store Page](https://store.steampowered.com/app/5141490/) · [Free Playable Demo](https://store.steampowered.com/app/5329290/)  
 
 - **Magic Academy** – Steam, App Store, Google Play  
   - [Gameplay Video](https://youtu.be/3x_77F4x2YI?si=3Yn1uKUgg9T5R2qm)  
